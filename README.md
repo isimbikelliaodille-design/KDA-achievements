@@ -1,5 +1,5 @@
 # KDA-achievements
-<!doctype html>
+
 
 <html lang="en">
 <head>
